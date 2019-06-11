@@ -2,7 +2,6 @@
 ---
 layout: post
 title: Новогдние проекты
-published: true
 ---
 
 
