@@ -1,6 +1,14 @@
 ---
 published: false
 ---
+
+---
+layout: post
+title: Новогдние проекты
+published: true
+---
+
+
 ## Новогдние проекты
 
 
